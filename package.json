@@ -1,0 +1,8 @@
+{
+  "name": "guitarpartyapi",
+  "version": "1.0.0",
+  "description": "GuitarParty.com Client Library",
+  "main": "gpapi.js",
+  "author": "Alex Bartfeld",
+  "license": "ISC"
+}
