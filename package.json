@@ -1,8 +1,16 @@
 {
-  "name": "guitarpartyapi",
+  "name": "@jellyy/guitarparty-client",
   "version": "1.0.0",
   "description": "GuitarParty.com Client Library",
-  "main": "gpapi.js",
+  "main": "guitarparty.js",
   "author": "Alex Bartfeld",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFSaton/guitarparty-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JFSaton/guitarparty-client/issues"
+  },
+  "homepage": "https://github.com/JFSaton/guitarparty-client#readme"
 }
