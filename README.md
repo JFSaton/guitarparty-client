@@ -1,5 +1,4 @@
 ### Installation
-
 ```
 npm install guitarparty-client
 ```
