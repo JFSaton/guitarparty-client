@@ -4,7 +4,7 @@ npm install guitarparty-client
 ```
 
 ### Authentication
-To use the Guitarparty API you must provide an API key. You can get an API key <a href="http://www.guitarparty.com/developers/api-key/">here</a> (must be a Guitarparty user and logged in).
+To use the Guitarparty API you must provide an API key. You can get an API key <a target="_blank" href="http://www.guitarparty.com/developers/api-key/">here</a> (must be a Guitarparty user and logged in).
 
 ### Usage
 ```
