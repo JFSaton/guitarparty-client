@@ -22,4 +22,4 @@ More information about the API can be found at <a href="http://www.guitarparty.c
 - getChordVariations
 
 ### Notes
-There is a constant <a href="https://tech.mybuilder.com/handling-retries-and-back-off-attempts-with-javascript-promises/">backoff</a> algorithm implemented in case of Network error with 4 attempts and 5sec intervals.
+There is a constant <a target="_blank" href="https://tech.mybuilder.com/handling-retries-and-back-off-attempts-with-javascript-promises/">backoff</a> algorithm implemented in case of Network error with 4 attempts and 5sec intervals.
