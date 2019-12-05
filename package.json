@@ -5,6 +5,15 @@
   "main": "guitarparty.js",
   "author": "Alex Bartfeld",
   "license": "ISC",
+  "keywords": [
+    "guitarparty",
+    "client",
+    "api",
+    "package",
+    "chords",
+    "songs",
+    "artists"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JFSaton/guitarparty-client.git"
