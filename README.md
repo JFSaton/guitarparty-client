@@ -8,7 +8,7 @@ To use the Guitarparty API you must provide an API key. You can get an API key <
 
 ### Usage
 ```
-import GuitarParty from 'guitarparty';
+import GuitarParty from 'guitarparty-client';
 const gpapi = new GuitarParty('YOUR_TOKEN')
 ```
 More information about the API can be found at <a href="http://www.guitarparty.com/developers/api-docs/getting-started/introduction/">GuitarParty.com website</a>
